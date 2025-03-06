@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218732047334",
+    "firebase_url": "https://diagnostic-ab05a-default-rtdb.firebaseio.com",
+    "project_id": "diagnostic-ab05a",
+    "storage_bucket": "diagnostic-ab05a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218732047334:android:31296aaf58324229f90427",
+        "android_client_info": {
+          "package_name": "com.arfiesolutions.diagnotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218732047334-uq9u8ul19dtcd9tcgj0pbpicfoc8c6vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arfiesolutions.diagnotech",
+            "certificate_hash": "82b485d44528a895f3fcc975deb12818f5a43521"
+          }
+        },
+        {
+          "client_id": "218732047334-fib277pl8utp2r77kho5e0266qvgeedn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDogu45DAvRtKhTb3u14t86tT2MUH7lmfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218732047334-fib277pl8utp2r77kho5e0266qvgeedn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
